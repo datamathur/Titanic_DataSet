@@ -5,7 +5,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 <br>
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.<br>
 <br>
-The Dataset is picked from [Kaggle](https://www.kaggle.com/c/titanic/overview) <br>
+The Dataset is picked from [Kaggle](https://www.kaggle.com/c/titanic/overview). <br>
 <br>
 I've used Support Vector Machine(SVM) and Neural Networks, two of my most favourite types of ML classification algorithms, to train two models on the this dataset.<br>
 Upon submission on kaggle the accuracies obtained were:<br>
