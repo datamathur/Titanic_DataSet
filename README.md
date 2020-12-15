@@ -11,5 +11,5 @@ I've used Logistic Regression, Support Vector Machine(SVM), and Neural Networks,
 Upon submission on kaggle the accuracies obtained were:<br>
 1. Logistic Regression - 81.00%
 2. SVM - 78.77%
-3. Neural Networks - 62.01%
+3. Neural Networks - 74.44%
 <br>
