@@ -7,7 +7,7 @@ While there was some element of luck involved in surviving, it seems some groups
 <br>
 The Dataset is picked from [Kaggle](https://www.kaggle.com/c/titanic/overview). <br>
 <br>
-I've used Logistic Regression, Support Vector Machine(SVM), and Neural Networks, two of my most favourite types of ML classification algorithms, to train two models on the this dataset.<br>
+I've used Logistic Regression, Support Vector Machine(SVM), and Neural Networks, three of my most favourite types of ML classification algorithms, to train two models on the this dataset.<br>
 Upon submission on kaggle the accuracies obtained were:<br>
 1. Logistic Regression - 81.00%
 2. SVM - 78.77%
